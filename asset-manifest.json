@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26023810.css",
+    "main.js": "/static/js/main.91adcd84.js",
+    "static/media/blueprint-1.png": "/static/media/blueprint-1.c9717842db078f909af3.png",
+    "static/media/blueprint-2.png": "/static/media/blueprint-2.b81b22ec7b57afc895de.png",
+    "static/media/website.png": "/static/media/website.bf1dfb85e659a46ec36d.png",
+    "static/media/pashmina-transparent.png": "/static/media/pashmina-transparent.b70f1b0bea2c3b3aab03.png",
+    "static/media/blanc-1.png": "/static/media/blanc-1.0737b1091ff164c40c96.png",
+    "static/media/studyhero.png": "/static/media/studyhero.91d5a7a758833ca3e027.png",
+    "index.html": "/index.html",
+    "main.26023810.css.map": "/static/css/main.26023810.css.map",
+    "main.91adcd84.js.map": "/static/js/main.91adcd84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26023810.css",
+    "static/js/main.91adcd84.js"
+  ]
+}
