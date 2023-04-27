@@ -87,7 +87,7 @@ function Projects() {
                                 Created using React JS, HTML and CSS. Surprisingly, this is the website you're on right now!
                             </p>
                             <br></br><hr></hr><br></br>
-                            <a href="https://github.com/madelahn" target="_blank">GitHub Repository</a>
+                            <a href="https://github.com/madelahn/madelahn.github.io" target="_blank">GitHub Repository</a>
                         </div>
                         <div className="project-image">
                             <img src={require("../assets/website.png")} />

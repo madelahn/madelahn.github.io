@@ -24,7 +24,7 @@ function Contact() {
                 <div className="socials">
                     <a href="https://github.com/madelahn" target="_blank"><FontAwesomeIcon icon={faGithub} /></a>
                     <a href="https://linkedin.com/in/madelahn" target="_blank"><FontAwesomeIcon icon={faLinkedin} /></a>
-                    <a href="madelahn.itch.io" target="_blank"><FontAwesomeIcon icon={faItchIo} /></a>
+                    <a href="https://madelahn.itch.io" target="_blank"><FontAwesomeIcon icon={faItchIo} /></a>
                 </div>
             </div>
         </div>
